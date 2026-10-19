@@ -1,0 +1,16 @@
+{
+    "model_name": "AHCD_Residual_CNN",
+    "model_seed": 789,
+    "dataset": "AHCD",
+    "input_shape": [
+        32,
+        32,
+        1
+    ],
+    "num_classes": 28,
+    "normalization": "float32 [0, 1]",
+    "foreground": "light strokes on dark background",
+    "label_encoding": "zero-based indices 0-27",
+    "selection_criterion": "validation performance",
+    "camera_required": false
+}
