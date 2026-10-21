@@ -1,0 +1,2 @@
+Model,Seed,Test Samples,Parameters,Test Accuracy (%),Test Macro F1 (%),Test Top-3 Accuracy (%),Test Loss,Test Errors
+Residual CNN,789,3360,230780,98.39285714285714,98.38964542744239,99.88095238095238,0.08865237,54

@@ -1,0 +1,4 @@
+Example,Index,True Class,Predicted Class,Ra Probability,Zay Probability
+Correct Ra,557,Ra,Ra,0.9999989867210388,4.6452709057120956e-07
+Correct Zay,9,Zay,Zay,6.382056483289489e-08,0.9999998211860657
+Ra Misclassified as Zay,46,Ra,Zay,3.6119295145908836e-06,0.9999920725822449
